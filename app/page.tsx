@@ -1,0 +1,1 @@
+export default function Page(){return <div style={{padding:16}}>Projeto criado. Substitui este ficheiro pelo <b>page.tsx completo</b> da conversa.</div>}
